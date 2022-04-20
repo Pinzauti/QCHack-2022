@@ -1,4 +1,9 @@
 # HQ-Hack 2022 - Quantum sudoku
+Note: this is a draft.
+
+Full repos of frontend and backend can be found here:
+- https://github.com/Pinzauti/QCHack-2022-frontend
+- https://github.com/Pinzauti/QCHack-2022-backend
 
 ## Team members
     Lisa Bombieri
